@@ -10,6 +10,11 @@ Write clean and maintainable code for other developers
 2. Clean architecture with MVVM architecture and best practices implemented
 3. Clean and maintainable codebase
 
+
+## Download
+<a href="https://play.google.com/store/apps/details?id=com.Intellify.solveapp2">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" height="50px"/></a>
+
 # Screenshots
 <h1>Home </h1>
 <div style="display:flex;" >
